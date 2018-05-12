@@ -1,0 +1,22 @@
+{% include header.html %}
+<body>
+<!-- Preloader -->
+<div id="preloader"><img src="image/loader.gif" alt=""></div>
+<!-- wrapper -->
+<div class="wrapper">
+    <!-- Header -->
+    <header class="site-header is-sticky">
+        {% include menu.html %}
+        <!-- Banner -->
+        {% include inner-banner.html %}
+        <!-- End Banner -->
+    </header>
+    <!-- End Header -->
+
+    {{ content }}
+
+    {% include call-action.html %}
+</div>
+<!-- end wrapper -->
+
+{% include footer.html %}
