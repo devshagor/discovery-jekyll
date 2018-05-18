@@ -2,9 +2,9 @@ logo: # add logo name
 title: Discovery - A Responsive Minimal Blog Template
 description: > # Discovery - A Responsive Minimal Blog Template
 
-permalink: ':title/'
-baseurl: "/discovery-jeyll" # the subpath of your site, e.g. /blog
-url: "http://shagor.info" # the base hostname & protocol for your site, e.g. http://example.com
+#permalink: ':title/'
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://shagor.info" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video

@@ -1567,7 +1567,8 @@ form label.error {
 .post.post-loop {
   margin-top: 45px; }
 .post.post-single .post-entry h2, .post.post-single .post-entry h1 {
-  font-size: 1.875em; }
+  font-size: 1.875em;
+  line-height: 36px; }
 
 .post-col2 .post-loop:nth-child(2n+1) {
   clear: left; }

@@ -1,11 +1,11 @@
 ---
 layout: details
-title: Marketing technology is more than just vendors and tools...
+title: Make your data accessible with these data visualization tools...
 author: Shagor
 category: [ Photography, travel ]
 tags: [ blog, travel ]
-permalink: /1st
-image: /image/photo-e.jpg
+permalink: /4th
+image: /image/photo-d.jpg
 category: Web Design
 project_name: Google
 link: https://google.com

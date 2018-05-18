@@ -1,11 +1,11 @@
 ---
 layout: details
-title: Marketing technology is more than just vendors and tools...
+title: If you’re new to video editing but need to edit simple videos, Photoshop has dolore magna aliqua enim ad minim veniam nostrud exercitation
 author: Shagor
 category: [ Photography, travel ]
 tags: [ blog, travel ]
-permalink: /1st
-image: /image/photo-e.jpg
+permalink: /2nd
+image: /image/photo-a.jpg
 category: Web Design
 project_name: Google
 link: https://google.com
